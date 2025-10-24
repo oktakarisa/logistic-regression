@@ -1,0 +1,17 @@
+# Data Directory
+
+This folder is reserved for any external datasets you might want to use.
+
+## Note:
+The assignment uses the **Iris dataset** which is built into scikit-learn, so no external data files are required for the basic assignment.
+
+However, you can place additional datasets here if you want to test the model on other binary classification problems.
+
+## Example Usage:
+```python
+# If you have custom data
+import numpy as np
+X_custom = np.load('data/your_features.npy')
+y_custom = np.load('data/your_labels.npy')
+```
+

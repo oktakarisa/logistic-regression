@@ -1,0 +1,11 @@
+# Outputs Directory
+
+This folder contains text-based outputs, reports, and logs.
+
+## Generated Files:
+- `training_log.txt` - Training progress and metrics
+- `evaluation_report.txt` - Comprehensive evaluation results
+- `comparison_results.txt` - Comparison between scratch and scikit-learn implementations
+
+These files are automatically generated when you run `verification.py` with logging enabled.
+

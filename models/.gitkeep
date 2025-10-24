@@ -1,0 +1,11 @@
+# Models Directory
+
+This folder contains saved model weights and complete model objects.
+
+## Generated Files:
+- `model_weights.npz` - Model coefficients saved using numpy.savez (Problem 8)
+- `model_complete.pkl` - Complete model object saved using pickle (Problem 8)
+- `model_2d.pkl` - 2D model used for decision boundary visualization
+
+These files are automatically generated when you run `verification.py` or the Jupyter notebook.
+
